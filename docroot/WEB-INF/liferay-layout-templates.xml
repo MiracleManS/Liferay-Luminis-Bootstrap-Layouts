@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<!DOCTYPE layout-templates PUBLIC "-//Liferay//DTD Layout Templates 6.1.0//EN" "http://www.liferay.com/dtd/liferay-layout-templates_6_1_0.dtd">
+
+<layout-templates>
+	<custom>
+		<layout-template id="Bootstrap_3col" name="Boostrap 3col">
+			<template-path>/Bootstrap_3col.tpl</template-path>
+			<wap-template-path>
+				/Bootstrap_3col.wap.tpl
+			</wap-template-path>
+			<thumbnail-path>/Boostrap_Layouts.png</thumbnail-path>
+		</layout-template>
+		<layout-template id="bootstrap5050" name="Bootstrap 5050">
+			<template-path>/bootstrap5050.tpl</template-path>
+			<wap-template-path>
+				/bootstrap5050.wap.tpl
+			</wap-template-path>
+			<thumbnail-path>/bootstrap5050.png</thumbnail-path>
+		</layout-template>
+		<layout-template id="bootstrap121" name="Bootstrap 1-2-1">
+			<template-path>/bootstrap121.tpl</template-path>
+			<wap-template-path>/bootstrap121.wap.tpl</wap-template-path>
+			<thumbnail-path>/bootstrap121.png</thumbnail-path>
+		</layout-template>
+	</custom>
+</layout-templates>
