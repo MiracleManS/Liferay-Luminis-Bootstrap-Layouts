@@ -4,5 +4,5 @@
 <project name="Boostrap_Layouts-layouttpl" basedir="." default="deploy">
 	<property name="plugin.version" value="1" />
 
-	<import file="C:\Users\dwsier\Downloads\liferay-plugins-sdk-6.1.2\liferay-plugins-sdk-6.1.1\layouttpl/build-common-layouttpl.xml" />
+    <import file="../build-common-layouttpl.xml" />
 </project>
